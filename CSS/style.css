@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+aside {
+    background-color: rgb(23, 23, 23);
+}
+
+header , main , footer {
+    background-color: rgb(33, 33, 33);
+}
